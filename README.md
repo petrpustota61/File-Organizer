@@ -26,3 +26,4 @@ files_directory/
     file1.txt
   jpg/
     file2.jpg
+Hello
